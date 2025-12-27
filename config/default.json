@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://bentegrimohamed:mouhamed26@devconnector.ddgeite.mongodb.net/?appName=DevConnector",
-  "secretJWT": "jwtSecretToken"
-}
